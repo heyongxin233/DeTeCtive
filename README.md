@@ -9,6 +9,8 @@
 <h1>[NeurIPS 2024]  DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning</h1>
 </div>
 
+**Note**: Our latest work, [DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning](https://arxiv.org/abs/2510.17489), has also been accepted to **NeurIPS 2025**. For more details, please refer to the [project](https://github.com/heyongxin233/DETree).
+
 ## 📌 Table of Contents
 
 - [Introduction](#-introduction)
